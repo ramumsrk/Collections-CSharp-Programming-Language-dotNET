@@ -1,0 +1,4 @@
+# Ignore `bin/' and `obj/' directory tree
+# inside the CSharp project directory
+bin/
+obj/
